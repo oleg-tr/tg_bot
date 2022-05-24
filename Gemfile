@@ -9,4 +9,4 @@ gem 'sqlite3'#gem для БД
 gem 'telegram-bot-ruby'#основной гем для создания соеденения с Telegram ботом
 gem "rails"
 gem 'rubocop', require: false
-gem 'haiku_gadget'
+gem 'faker_japanese'
