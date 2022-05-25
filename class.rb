@@ -1,10 +1,10 @@
-#require 'telegram/bot'
-#require './library/message_shaker'
-#require './library/database'
-#require './modules/listener'
-#require './modules/security'
-#require './modules/standart_messages'
-#require './modules/response'
+require 'telegram/bot'
+require './library/message_shaker'
+require './library/database'
+require './modules/listener'
+require './modules/security'
+require './modules/standart_messages'
+require './modules/response'
 require 'faker/japanese'
 
 
